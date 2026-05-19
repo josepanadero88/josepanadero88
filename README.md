@@ -76,7 +76,7 @@
 <p>
 
 <a href="https://www.linkedin.com/in/josea-panadero/" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" />
+<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" />
 </a>
 <a href="https://www.linkedin.com/in/josea-panadero/" target="_blank"></a>
 <a href="mailto:joseapanadero@gmail.com" target="_blank">
