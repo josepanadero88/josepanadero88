@@ -67,20 +67,16 @@
 
 <br> 
 
-<p align="center">  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=josepanadero88&theme=tokyonight" />  
-</p>
+<p align="center">
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> <b>Connect with Me</b>
-
-<p>
-
-<a href="https://www.linkedin.com/in/josea-panadero/" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" />
+<a href="https://www.linkedin.com/in/josea-panadero/" target="_blank" style="text-decoration: none;">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40"/>
 </a>
 
-<a href="mailto:joseapanadero@gmail.com" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" />
+&nbsp;
+
+<a href="mailto:joseapanadero@gmail.com" style="text-decoration: none;">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40"/>
 </a>
 
 </p>
