@@ -66,8 +66,9 @@
 </p>
 
 <br> 
-### 📫 Connect with Me
+
 <p>
+### 📫 Connect with Me
 <a href="https://www.linkedin.com/in/josea-panadero/" target="_blank" style="text-decoration: none;">
 <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40"/>
 &nbsp
