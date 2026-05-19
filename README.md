@@ -75,18 +75,19 @@
 
 <b>
 I’m always open to talking about systems, cloud infrastructure, automation and DevOps projects.  </b>🐧
- 
-
-<p align="center">
+ <p align="center">
 
 <a href="https://www.linkedin.com/in/josea-panadero/" target="_blank">
   <img src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" height="40" width="45" />
- <span> José Alfonso Panadero Estudillo</span>
+  <span> José Alfonso Panadero Estudillo</span>
 </a>
 
-<a href="mailto:joseapanadero@gmail.com" target="_blank">
+<br>
+
+<a href="mailto:joseapanadero@gmail.com">
   <img src="https://user-images.githubusercontent.com/86669668/171339003-ef5b5c96-eac8-478c-a9cc-318ca9477fce.gif" height="40" width="45" />
-  <span> joseapanadero@gmail.com</span>
+  <span> Enviar mensaje</span>
 </a>
+
 </p>
 
