@@ -74,8 +74,14 @@
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> <b>Connect with Me</b>
 
 <p>
-<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" href="https://www.linkedin.com/in/josea-panadero/" width="40" />
+
+<a href="https://www.linkedin.com/in/josea-panadero/" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" />
+</a>
+
 <a href="mailto:joseapanadero@gmail.com" target="_blank">
-<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" /></a>
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" />
+</a>
+
 </p>
 
