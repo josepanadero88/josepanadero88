@@ -67,15 +67,13 @@
 
 <br>
 
-## 📫 Connect with Me
+### 📫 Connect with Me
 
-<p align="center">
+<p>
 
 <a href="https://www.linkedin.com/in/josea-panadero/" target="_blank">
 <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40"/>
 </a>
-
-&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:joseapanadero@gmail.com">
 <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40"/>
