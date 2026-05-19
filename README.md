@@ -88,4 +88,5 @@ I’m always open to talking about systems, cloud infrastructure, automation and
   <img src="https://user-images.githubusercontent.com/86669668/171339003-ef5b5c96-eac8-478c-a9cc-318ca9477fce.gif" height="40" width="45" />
   <span> joseapanadero@gmail.com</span>
 </a>
+</p>
 
