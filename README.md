@@ -71,8 +71,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=josepanadero88&theme=tokyonight" />  
 </p>
 
-<p><img width="460" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarath-pm&show_icons=true&locale=en&layout=compact&theme=tokyonight"/460/300"></p>
-
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> <b>Connect with Me</b>
 
 <b>
