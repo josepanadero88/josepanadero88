@@ -66,10 +66,11 @@
 </p>
 
 <br> 
-
+## 📫 Connect with Me
 <p>
 <a href="https://www.linkedin.com/in/josea-panadero/" target="_blank" style="text-decoration: none;">
 <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40"/>
+&nbsp
 <a href="mailto:joseapanadero@gmail.com" style="text-decoration: none;">
 <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40"/>
 </a>
