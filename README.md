@@ -78,7 +78,7 @@
 <a href="https://www.linkedin.com/in/josea-panadero/" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" />
 </a>
-&nbsp;
+<br>
 <a href="https://www.linkedin.com/in/josea-panadero/" target="_blank">
   José Alfonso Panadero
 </a>
@@ -88,7 +88,7 @@
 <a href="mailto:joseapanadero@gmail.com">
   <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" />
 </a>
-&nbsp;
+<br>
 <a href="mailto:joseapanadero@gmail.com">
   Email
 </a>
