@@ -65,8 +65,6 @@
 
 </p>
 
-<br>
-
 ### 📫 Connect with Me
 
 <p>
